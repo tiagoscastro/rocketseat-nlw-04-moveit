@@ -51,22 +51,6 @@
   align-items: center;
 }
 
-.countdownButton:not(:disabled):hover {
+.countdownButton:hover {
   background: var(--blue-dark);
-}
-
-.countdownButtonActive {
-  background: var(--white);
-  color: var(--title);
-}
-
-.countdownButtonActive:hover {
-  background: var(--red);
-  color: var(--white);
-}
-
-.countdownButton:disabled {
-  background: var(--white);
-  color: var(--text);
-  cursor: not-allowed;
 }
