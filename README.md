@@ -4,6 +4,10 @@
 
 <h2 align="center">:rocket: Rocketseat NLW #04 - Move.it</h2>
 
+<p align="center">
+  <img src="../assets/Home.svg" width="600" />
+</p>
+
 ## About the project
 Move.it is an application developed during the **Next Level Week 4** event promoted by **Rocketseat**, whose objective is to promote the practice of exercises, especially for those who spend hours on the computer, thus contributing to a healthier life.
 
