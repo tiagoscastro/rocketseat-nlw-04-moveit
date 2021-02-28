@@ -31,11 +31,8 @@ npm run dev
 ```
 
 ### Yarn
-After that, just open the directory where the repository was cloned and install the dependencies with:
+After that, just open the directory where the repository was cloned, install the dependencies and run the application with:
 ```
 yarn
 yarn dev
 ```
-
-## License
-MIT
