@@ -24,13 +24,9 @@ To run this application on your computer, first clone this repository with the f
 git clone https://github.com/tiagoscastro/rocketseat-nlw-04-moveit.git
 ```
 ### NPM
-After that, just open the directory where the repository was cloned and install the dependencies with:
+After that, just open the directory where the repository was cloned, install the dependencies and run the application with:
 ```
 npm install
-```
-
-Finally, in the application repository, simply run the application with:
-```
 npm run dev
 ```
 
@@ -38,10 +34,6 @@ npm run dev
 After that, just open the directory where the repository was cloned and install the dependencies with:
 ```
 yarn
-```
-
-Finally, in the application repository, simply run the application with:
-```
 yarn dev
 ```
 
